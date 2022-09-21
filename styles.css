@@ -1,0 +1,22 @@
+body {
+	margin: 20px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.avatar {
+	width: 150px;
+}
+.card {
+	padding: 20px;
+	display: flex;
+	background: rgba(0, 0, 0, 0.4);
+	width: 400px;
+	margin: 0 auto;
+	justify-content: space-around;
+	text-align: center;
+	box-shadow: 5px 5px 20px darkgreen;
+	border-radius: 10px;
+}
+.info {
+	text-shadow: 5px 1px 8px green, 0 7px 10px purple;
+}
